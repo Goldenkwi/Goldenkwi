@@ -58,7 +58,7 @@ runtime as the README that explains it.
 | [**Notes RAG**](https://github.com/Goldenkwi/Notes-rag-personal-use) | Local-first MCP server that gives AI assistants long-term memory over personal notes, using hybrid lexical + vector retrieval and reranking. | Python · SQLite FTS5 · LanceDB · FlashRank |
 | [**Cheva Laundry API**](https://github.com/Goldenkwi/tubes-cheva2-be) | Backend for end-to-end laundry operations: orders, customers, services, staff, expenses, and real-time status tracking. | Node.js · Express · Prisma · PostgreSQL |
 | [**Internship EDA**](https://github.com/Goldenkwi/Data-analyst-Magang) | Exploratory analysis of 463 internship applicants: data cleaning, descriptive statistics, and visual reporting. | R · data visualization |
-| [**Atelier**](https://github.com/Goldenkwi) | Editorial portfolio with an interactive 3D archive carousel, built as a design-first Next.js application. *In progress.* | Next.js 16 · React 19 · Three.js · Tailwind |
+| **Atelier** | Editorial portfolio with an interactive 3D archive carousel, built as a design-first Next.js application. *In progress.* | Next.js 16 · React 19 · Three.js · Tailwind |
 | [**Laravel Responsi**](https://github.com/Goldenkwi/Responsi-Laravel-blade) | Coursework and experiments with the Laravel ecosystem, Blade templates, and Tailwind CSS. | PHP · Laravel · Blade · Tailwind |
 
 ---
