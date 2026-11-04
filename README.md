@@ -15,7 +15,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-Goldenkwi-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Goldenkwi)
 [![Email](https://img.shields.io/badge/Email-gantengammar667%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:gantengammar667@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B62%20819--0566--4334-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/6281905664334)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B62%20819--0566--4334-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/628511974541)
 
 </div>
 
@@ -30,11 +30,11 @@ runtime as the README that explains it.
 
 | | |
 | :--- | :--- |
-| **Education** | S1 Informatics — Telkom University |
+| **Education** | D3 Software Enginering Application — Telkom University |
 | **Focus** | AI/ML · Backend · Cloud infrastructure |
 | **Currently building** | WebInAction · Notes RAG · Atelier portfolio |
-| **Daily driver** | Arch Linux · terminal-first workflow |
-| **Working languages** | Indonesian · English |
+| **Daily driver** | Fedora | chachy os · terminal-first workflow |
+| **Working languages** | Indonesian · English · Chinese|
 
 ---
 
